@@ -129,10 +129,17 @@ Farmer loan management system.
 ## Stats
 
 <p align="center">
-  <a href="https://github.com/fahaddoc">
-    <img height="180em" src="https://github-readme-stats.hackclub.dev/api?username=fahaddoc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=fahaddoc&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahaddoc&theme=tokyonight" alt="profile summary"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahaddoc&theme=tokyonight" alt="repos per language"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahaddoc&theme=tokyonight" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahaddoc&theme=tokyonight" alt="stats"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahaddoc&theme=tokyonight&utcOffset=5" alt="productive time"/>
 </p>
 
 <p align="center">
